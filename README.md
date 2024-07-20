@@ -9,4 +9,4 @@ Integrantes do grupo:
 - Marcos Antonio Teixeira Filho -- Front-end e Back-end
 - Milena Anjos Sigoli -- Documentação
 - Renan Menezes Cardozo -- Documentação
-- Thiago Henrique Martins Junior
+- Thiago Henrique Martins Junior -- Back-end
